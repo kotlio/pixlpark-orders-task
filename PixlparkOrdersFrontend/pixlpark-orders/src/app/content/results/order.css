@@ -1,0 +1,43 @@
+.order {
+    width: 850px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.order-props-first {
+    width: 450px;
+    margin-left: 15px;
+    margin-top: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    border-right: 1px solid #cccccc;
+}
+
+.order-props-second {
+
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.order-prop {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.order-expand-button {
+    width: 100px;
+    text-decoration: none;
+    color: green;
+    margin-bottom: 15px;
+}
+
+.order-hidden {
+    margin-left: 15px;
+}
+
+.order-prop-full {
+    margin-bottom: 5px;
+}

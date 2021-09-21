@@ -1,0 +1,13 @@
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    color: white;
+}
+
+.header-title {
+    width: 200px;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 6px;
+    display: inline-block;
+}

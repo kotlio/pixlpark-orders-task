@@ -1,0 +1,15 @@
+.sidebar {
+    width: 300px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+    float: left;
+}
+
+.sidebar-title {
+    font-size: 18px;
+    font-weight: 600;
+    color:rgb(51, 51, 51);
+    padding: 10px 30px;
+    border-bottom: 1px solid rgb(199, 199, 199);
+}
+

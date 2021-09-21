@@ -1,0 +1,14 @@
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\bin\Debug\netcoreapp2.1\PixplparkOrdersBackend.deps.json
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\bin\Debug\netcoreapp2.1\PixplparkOrdersBackend.runtimeconfig.json
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\bin\Debug\netcoreapp2.1\PixplparkOrdersBackend.runtimeconfig.dev.json
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\bin\Debug\netcoreapp2.1\PixplparkOrdersBackend.dll
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.csprojAssemblyReference.cache
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.csproj.CoreCompileInputs.cache
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.RazorAssemblyInfo.cache
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.RazorAssemblyInfo.cs
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.AssemblyInfoInputs.cache
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.AssemblyInfo.cs
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.RazorTargetAssemblyInfo.cache
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\bin\Debug\netcoreapp2.1\PixplparkOrdersBackend.pdb
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.dll
+C:\Users\mewko\Documents\csharpProjects\PixplparkOrdersBackend\PixplparkOrdersBackend\obj\Debug\netcoreapp2.1\PixplparkOrdersBackend.pdb

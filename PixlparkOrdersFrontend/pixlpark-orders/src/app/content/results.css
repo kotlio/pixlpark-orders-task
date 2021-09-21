@@ -1,0 +1,13 @@
+.results {
+    width: 850px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.loading {
+    text-align: center;
+    margin: 20px 0;
+}

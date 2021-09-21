@@ -1,0 +1,21 @@
+.input-filter {
+    font-size: 16px;
+    font-weight: 400;
+    color:rgb(51, 51, 51);
+    padding: 10px 30px;
+    border-bottom: 1px solid rgb(199, 199, 199);
+}
+
+.input-filter-area {
+    width: 80px;
+    float: right;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+    padding: 2px 4px;
+    font-size: 16px;
+}
+
+.consumers {
+    display:none;
+    overflow: hidden;
+}
